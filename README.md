@@ -1,5 +1,5 @@
 # PROJECT NAME
-## By Usarneme/Tom
+## By Adrian Camacho
 
 ---
 
@@ -54,5 +54,5 @@ Describe: TESTS
 <br />
 <br />
 <p align="center">
-  <small>Made with ❤️ in Portland, Oregon. </small>
+  <small>Made in Portland, Oregon. </small>
 </p>
